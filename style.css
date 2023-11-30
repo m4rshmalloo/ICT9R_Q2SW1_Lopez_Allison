@@ -1,0 +1,28 @@
+body {
+	background-color: seashell;
+}
+
+
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+	border: 2px solid;
+	border-color: brown;
+	text-align: center;
+}
+
+th {
+	color: saddlebrown;
+}
+
+div {
+	color: red;
+	text-align: center;
+	padding: 1px;
+	background-color: sandybrown;
+	border: 5px dotted red;
+}
+
+form {
+	text-align: center;
+}
